@@ -1,0 +1,66 @@
+>sp|P0AD86|LPT_ECOLI thr operon leader peptide OS=Escherichia coli (strain K12) OX=83333 GN=thrL PE=3 SV=1
+MKRISTTITTTITITTGNGAG
+
+     gene            190..255
+                     /gene="thrL"
+                     /locus_tag="b0001"
+                     /gene_synonym="ECK0001"
+                     /db_xref="ASAP:ABE-0000006"
+                     /db_xref="ECOCYC:EG11277"
+                     /db_xref="EcoGene:EG11277"
+                     /db_xref="GeneID:944742"
+     CDS             190..255
+                     /gene="thrL"
+                     /locus_tag="b0001"
+                     /gene_synonym="ECK0001"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="thr operon leader peptide"
+                     /protein_id="NP_414542.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P0AD86"
+                     /db_xref="ASAP:ABE-0000006"
+                     /db_xref="ECOCYC:EG11277"
+                     /db_xref="EcoGene:EG11277"
+                     /db_xref="GeneID:944742"
+                     /translation="MKRISTTITTTITITTGNGAG"
+     gene            337..2799
+                     /gene="thrA"
+                     /locus_tag="b0002"
+                     /gene_synonym="ECK0002; Hs; thrA1; thrA2; thrD"
+                     /db_xref="ASAP:ABE-0000008"
+                     /db_xref="ECOCYC:EG10998"
+                     /db_xref="EcoGene:EG10998"
+                     /db_xref="GeneID:945803"
+     CDS             337..2799
+                     /gene="thrA"
+                     /locus_tag="b0002"
+                     /gene_synonym="ECK0002; Hs; thrA1; thrA2; thrD"
+                     /EC_number="1.1.1.3"
+                     /EC_number="2.7.2.4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="fused aspartate kinase/homoserine dehydrogenase
+                     1"
+                     /protein_id="NP_414543.1"
+                     /db_xref="UniProtKB/Swiss-Prot:P00561"
+                     /db_xref="ASAP:ABE-0000008"
+                     /db_xref="ECOCYC:EG10998"
+                     /db_xref="EcoGene:EG10998"
+                     /db_xref="GeneID:945803"
+                     /translation="MRVLKFGGTSVANAERFLRVADILESNARQGQVATVLSAPAKIT
+                     NHLVAMIEKTISGQDALPNISDAERIFAELLTGLAAAQPGFPLAQLKTFVDQEFAQIK
+                     HVLHGISLLGQCPDSINAALICRGEKMSIAIMAGVLEARGHNVTVIDPVEKLLAVGHY
+                     LESTVDIAESTRRIAASRIPADHMVLMAGFTAGNEKGELVVLGRNGSDYSAAVLAACL
+                     RADCCEIWTDVDGVYTCDPRQVPDARLLKSMSYQEAMELSYFGAKVLHPRTITPIAQF
+                     QIPCLIKNTGNPQAPGTLIGASRDEDELPVKGISNLNNMAMFSVSGPGMKGMVGMAAR
+                     VFAAMSRARISVVLITQSSSEYSISFCVPQSDCVRAERAMQEEFYLELKEGLLEPLAV
+                     TERLAIISVVGDGMRTLRGISAKFFAALARANINIVAIAQGSSERSISVVVNNDDATT
+                     GVRVTHQMLFNTDQVIEVFVIGVGGVGGALLEQLKRQQSWLKNKHIDLRVCGVANSKA
+                     LLTNVHGLNLENWQEELAQAKEPFNLGRLIRLVKEYHLLNPVIVDCTSSQAVADQYAD
+                     FLREGFHVVTPNKKANTSSMDYYHQLRYAAEKSRRKFLYDTNVGAGLPVIENLQNLLN
+                     AGDELMKFSGILSGSLSYIFGKLDEGMSFSEATTLAREMGYTEPDPRDDLSGMDVARK
+                     LLILARETGRELELADIEIEPVLPAEFNAEGDVAAFMANLSQLDDLFAARVAKARDEG
+                     KVLRYVGNIDEDGVCRVKIAEVDGNDPLFKVKNGENALAFYSHYYQPLPLVLRGYGAG
+                     NDVTAAGVFADLLRTLSWKLGV"
+ORIGIN         
+                          

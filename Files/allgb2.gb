@@ -1,0 +1,74 @@
+     gene            123596..125776
+                     /gene="priA"
+                     /locus_tag="BU_RS00665"
+                     /old_locus_tag="BU120"
+     CDS             123596..125776
+                     /gene="priA"
+                     /locus_tag="BU_RS00665"
+                     /old_locus_tag="BU120"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_009874076.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="primosomal protein N'"
+                     /protein_id="WP_010895957.1"
+                     /translation="MIIVKVILPIPIRQYFTYLMPDFMCPIIGGRILVPFNSKDVIGI
+                     VASFYKKNNVDQANFKHIKALIDTESLYSNMVLDIISWISNNYHCPAGNLFFSILPKI
+                     LHSDYIIKNKYICQWSITKKGQELNLNYFKRRKKQLYVLLILKKKHILSTELKKYNIS
+                     KIILKKLEIQELCKVNLNYKISFKRKIIRTKKKLFFNKKISIVLNDVLKKQCFSSWLL
+                     TRVNLYLKVKFYLGLIQSVLYKGVQILILVPYIKNINTIAFFLEKYFNASIDVMHSKL
+                     TSSKYFSNWVRTKNGENSIVIGTGKSIFLPFLKLGLIILLEEHNLKYKSINQCRYNIR
+                     DLGILRAYKEKIPIILDSETPSLKTLNNVLHRKCFYIKLNKYNHVNQINNNIINLKTE
+                     KIKFGLSLTLINEIYKNFTGKQVLLIFNKFVLFFFVLMCQKCNEIFKCTNCDDYFEIN
+                     QYRNILFCKFCLIQIKKPIFCYNCGSFSLIVFKIGAEEIKKEMHSIFPKIPFFFFLNE
+                     KNINKNILNTKSFEFAISSPCIIIVTEELVQNYYFPHVKLISLICIDNYFLSFNYRAM
+                     EYFAQFYINLNQLTRSTKKSCKIFIQTSFPNDINLKEICNNGYFSFSKKAMAIRKSFL
+                     LPPWSFQTIVYSASTNTKYNIIFLSLMRKILQKKSRKYNCFLWVLGPNNAFLSINKHK
+                     YFHQLLIQCSSRVALNNVLNESIDVINIFTISKRVKWFIDIEPN"
+     gene            125936..127204
+                     /gene="tyrS"
+                     /locus_tag="BU_RS00670"
+                     /old_locus_tag="BU121"
+     CDS             125936..127204
+                     /gene="tyrS"
+                     /locus_tag="BU_RS00670"
+                     /old_locus_tag="BU121"
+                     /EC_number="6.1.1.1"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010895958.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tyrosine--tRNA ligase"
+                     /protein_id="WP_010895958.1"
+                     /translation="MSEFNFISRLHNRGLISHITNEDNLSKLIENKSISLYCGFDPTE
+                     ESLHIGHLLPLIMLKRFQIAGHRPIILIGGATSLIGDPSFKEKERVFNSNYNVNIWTE
+                     KITKQISCFLDFNCGKNSAVLLNNNTWFKQINILSFLRDVGKYFSVNTMINRAAVKQR
+                     ITRPDQGISFTEFSYNLLQAYDFFILNQQYQADLQIGGADQWGNISSGMHLIHRKTKR
+                     VVYGLTVPLLIQSNGIKFGKTESGTIWLDSNKTSPYKFYQFWMNIEDANVYYFLKLFT
+                     FIKVSEINKLEKNKNIKNQIINDKSLLAKHITQLVHGKEKLLAAERITKFLFLKNTTH
+                     IEESDLQQLKQDGIPFIEVSNVKDLQEALVLTSLAQSRTQAKNMIISNSISINTEKIR
+                     KNHIFHEKDKLFGKFTLLSRGKKQHSLLCW"
+     gene            127205..128000
+                     /gene="tyrS"
+                     /locus_tag="BU_RS00670"
+                     /old_locus_tag="BU121"
+     CDS             125936..127204
+                     /gene="tyrS"
+                     /locus_tag="BU_RS00670"
+                     /old_locus_tag="BU121"
+                     /EC_number="6.1.1.1"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010895958.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="nome de teste teste"
+                     /protein_id="WP_010895959.1"
+                     /translation="PYKFYQFWMNIEDANVYYFLKLFT
+                     FIKVSEINKLEKNKNIKNQII"                                         
+                     

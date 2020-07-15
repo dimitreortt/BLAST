@@ -1,0 +1,58 @@
+     gene            127205..128000
+                     /gene="tyrS"
+                     /locus_tag="BU_RS00670"
+                     /old_locus_tag="BU121"
+     CDS             125936..127204
+                     /gene="tyrS"
+                     /locus_tag="BU_RS00670"
+                     /old_locus_tag="BU121"
+                     /EC_number="6.1.1.1"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_010895968.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="nome de teste teste"
+                     /protein_id="WP_010895959.1"
+                     /translation="MSEFNFISRLHNRGLISHITNEDNLSKLIENKSISLYCGFDPTE
+                     ESLHIGHLLPLIMLKRFQIAGHRPIILIGGATSLIGDPSFKEKERVFNSNYNVNIWTE
+                     KITKQISCFLDFNCGKNSAVLLNNNTWFKQINILSFLRDVGKYFSVNTMINRAAVKQR
+                     ITRPDQGISFTEFSYNLLQAYDFFILNQQYQADLQIGGADQWGNISSGMHLIHRKTKR
+                     VVYGLTVPLLIQSNGIKFGKTESGTIWLDSNKTS" 
+     gene            337..2799
+                     /gene="thrA"
+                     /locus_tag="b0002"
+                     /gene_synonym="ECK0002; Hs; thrA1; thrA2; thrD"
+                     /db_xref="ASAP:ABE-0000008"
+                     /db_xref="ECOCYC:EG10998"
+                     /db_xref="EcoGene:EG10998"
+                     /db_xref="GeneID:945803"
+     CDS             337..2799
+                     /gene="thrA"
+                     /locus_tag="b0002"
+                     /gene_synonym="ECK0002; Hs; thrA1; thrA2; thrD"
+                     /EC_number="1.1.1.3"
+                     /EC_number="2.7.2.4"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="fused aspartate kinase/homoserine dehydrogenase
+                     1"
+                     /protein_id="NP_414543.1"
+                     /db_xref="UniProtKB/Swiss-Prot:Ptest1"
+                     /db_xref="ASAP:ABE-0000008"
+                     /db_xref="ECOCYC:EG10998"
+                     /db_xref="EcoGene:EG10998"
+                     /db_xref="GeneID:945803"
+                     /translation="MRVLKFGGTSVANAERFLRVADILESNARQGQVATVLSAPAKIT
+                     NHLVAMIEKTISGQDALPNISDAERIFAELLTGLAAAQPGFPLAQLKTFVDQEFAQIK
+                     HVLHGISLLGQCPDSINAALICRGEKMSIAIMAGVLEARGHNVTVIDPVEKLLAVGHY
+                     LESTVDIAESTRRIAASRIPADHMVLMAGFTAGNEKGELVVLGRNGSDYSAAVLAACL
+                     RADCCEIWTDVDGVYTCDPRQVPDARLLKSMSYQEAMELSYFGAKVLHPRTITPIAQF
+                     QIPCLIKNTGNPQAPGTLIGASRDEDELPVKGISNLNNMAMFSVSGPGMKGMVGMAAR
+                     VFAAMSRARISVVLITQSSSEYSISFCVPQSDCVRAERAMQEEFYLELKEGLLEPLAV
+                     TERLAIISVVGDGMRTLRGISAKFFAALARANINIVAIAQGSSERSISVVVNNDDATT
+                     GVRVTHQMLFNTDQVIEVFVIGVGGVGGALLEQLKRQQSWLKNKHIDLRVCGVANSKA
+                     LLTNVHGLNLENWQEELAQAKEPFNLGRLIRLVKEYHLLNPVIVDCTSSQAVADQYAD
+                     FLREGFHVVTPNKKANTSSMDYYHQL"
+                    
